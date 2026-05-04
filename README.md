@@ -6,7 +6,7 @@
 ```
 ## and play. Alternatively just launch the emulator with parameter:
 `mame -effect scanlines`
-## (The result will differ on emulator)
+## (The result will differ on emulator because these dots are very tiny and the downscale of this example)
 
 <img width="1819" height="1080" alt="example" src="https://github.com/user-attachments/assets/67811369-39ae-49a4-b2d7-e27522ea8083" />
 
