@@ -6,6 +6,8 @@
 ```
 ## and play. Alternatively just launch the emulator with parameter:
 `mame -effect scanlines`
-## The result:
+## (The result will differ on emulator)
+
 <img width="1819" height="1080" alt="example" src="https://github.com/user-attachments/assets/67811369-39ae-49a4-b2d7-e27522ea8083" />
-## Enjoy!
+
+## Give it a try and enjoy!
